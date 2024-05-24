@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mehmetiyiyazici/Documents/works/UrunSatisApp/obj/Debug/net8.0/scopedcss/projectbundle/UrunSatisApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/UrunSatisApp.bundle.scp.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.UrunSatisApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.UrunSatisApp.props",
+      "PackagePath": "build\\UrunSatisApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.UrunSatisApp.props",
+      "PackagePath": "buildMultiTargeting\\UrunSatisApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.UrunSatisApp.props",
+      "PackagePath": "buildTransitive\\UrunSatisApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

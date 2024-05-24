@@ -1,0 +1,2 @@
+Elma|10|5
+Portakal|20|5

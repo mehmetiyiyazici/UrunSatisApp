@@ -1,0 +1,17 @@
+﻿@model List<UrunModel>
+
+@{
+    ViewData["Title"] = "AnaSayfa";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Ürünler</h1>
+    @foreach (var Urun in Model)
+    {
+        <h4 style="color:#0a58ca">@Urun.Urun</h4>
+        <p style="color: #0c4128">@Urun.Fiyat</p>
+        <hr/>
+    }
+    
+    
+</div>

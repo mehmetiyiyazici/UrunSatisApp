@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "SaxglrmzAJtefp6/xg+MugeMcvUU371CMMwyaq8+r+A=",
+  "Source": "UrunSatisApp",
+  "BasePath": "_content/UrunSatisApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UrunSatisApp/wwwroot",
+      "Source": "UrunSatisApp",
+      "ContentRoot": "/Users/mehmetiyiyazici/Documents/works/UrunSatisApp/wwwroot/",
+      "BasePath": "_content/UrunSatisApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/mehmetiyiyazici/Documents/works/UrunSatisApp/obj/Debug/net8.0/scopedcss/bundle/UrunSatisApp.styles.css",
+      "SourceId": "UrunSatisApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/mehmetiyiyazici/Documents/works/UrunSatisApp/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/UrunSatisApp",
+      "RelativePath": "UrunSatisApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/mehmetiyiyazici/Documents/works/UrunSatisApp/obj/Debug/net8.0/scopedcss/bundle/UrunSatisApp.styles.css"
+    },
+    {
+      "Identity": "/Users/mehmetiyiyazici/Documents/works/UrunSatisApp/obj/Debug/net8.0/scopedcss/projectbundle/UrunSatisApp.bundle.scp.css",
+      "SourceId": "UrunSatisApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/mehmetiyiyazici/Documents/works/UrunSatisApp/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/UrunSatisApp",
+      "RelativePath": "UrunSatisApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/mehmetiyiyazici/Documents/works/UrunSatisApp/obj/Debug/net8.0/scopedcss/projectbundle/UrunSatisApp.bundle.scp.css"
+    }
+  ]
+}
